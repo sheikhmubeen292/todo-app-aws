@@ -22,5 +22,32 @@
         }
       }
     }
+  },
+  "todoapp": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bootcamptodoaws-todoapp-171909-authRole",
+      "UnauthRoleArn": "arn:aws:iam::757242169180:role/amplify-bootcamptodoaws-todoapp-171909-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::757242169180:role/amplify-bootcamptodoaws-todoapp-171909-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bootcamptodoaws-todoapp-171909-deployment",
+      "UnauthRoleName": "amplify-bootcamptodoaws-todoapp-171909-unauthRole",
+      "StackName": "amplify-bootcamptodoaws-todoapp-171909",
+      "StackId": "arn:aws:cloudformation:us-east-1:757242169180:stack/amplify-bootcamptodoaws-todoapp-171909/02fcdb70-0c40-11ee-b82e-1265ae7940fd",
+      "AmplifyAppId": "d22q6hi6frdrg3"
+    },
+    "categories": {
+      "auth": {
+        "bootcamptodoawsc17ca219": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d22q6hi6frdrg3",
+          "type": "manual"
+        }
+      },
+      "api": {
+        "bootcamptodoaws": {}
+      }
+    }
   }
 }
