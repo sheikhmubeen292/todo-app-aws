@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "bootcamptodoaws",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/talha/Dev/bootcamp-2020/todo-app-aws/amplify/backend/api/bootcamptodoaws/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    },
+    "additionalAuthTypes": [
+      {
+        "mode": "AMAZON_COGNITO_USER_POOLS",
+        "cognitoUserPoolId": "authbootcamptodoawsc17ca219"
+      }
+    ]
+  }
+}

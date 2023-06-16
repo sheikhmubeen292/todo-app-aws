@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bootcamptodoaws-dev-220134-authRole",
+      "UnauthRoleArn": "arn:aws:iam::233928831436:role/amplify-bootcamptodoaws-dev-220134-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::233928831436:role/amplify-bootcamptodoaws-dev-220134-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bootcamptodoaws-dev-220134-deployment",
+      "UnauthRoleName": "amplify-bootcamptodoaws-dev-220134-unauthRole",
+      "StackName": "amplify-bootcamptodoaws-dev-220134",
+      "StackId": "arn:aws:cloudformation:us-east-1:233928831436:stack/amplify-bootcamptodoaws-dev-220134/422ff880-9e38-11ec-83f4-0e40bd8a36fb",
+      "AmplifyAppId": "d1h3nt88zs8m7d"
+    },
+    "categories": {
+      "auth": {
+        "bootcamptodoawsc17ca219": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1h3nt88zs8m7d",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

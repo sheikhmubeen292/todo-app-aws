@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "bootcamptodoaws",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authbootcamptodoawsc17ca219",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
